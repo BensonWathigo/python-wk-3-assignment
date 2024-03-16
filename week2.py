@@ -16,5 +16,4 @@ my_list.sort()
 
 print ('Index of value 30 is',my_list.index(30))
 
-git init
 

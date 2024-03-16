@@ -1,0 +1,34 @@
+
+/*This is an ID sselector. Stsrtd with #*/
+#green_paragraph{
+    color: green;
+    font-size: 20 px;
+}
+/*This is acomment in CSS*/
+/*This is a class selector.Starts with (.).*/
+.red_paragraph {
+    color: red;
+    font-size: 30px;
+
+}
+
+.container{/*
+    width: 400px;
+    height: 50S0px;
+    border: 5px solid black;
+    padding: 50px;
+    margin : 30px;
+    */
+    display: flex;
+}
+.item {
+    padding: 5px;
+}
+.container img{
+    width: 100%;
+    height: 200px;;
+}
+
+body{
+    background-color: pink;
+}
